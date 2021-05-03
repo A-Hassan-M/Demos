@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.tgs.unittestingdemo;
+package com.demos.unittesting;
 
 import static junit.framework.Assert.assertEquals;
 import org.junit.Test;
